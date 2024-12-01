@@ -1,0 +1,130 @@
+.nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 35px 50px 0 50px;
+   
+ 
+ }
+ .nav1
+ {
+     display: flex;
+     gap: 40px;
+     align-items: center;
+     justify-content: center;
+
+ 
+ }
+ a{
+    text-decoration: none;
+    color: black;
+ }
+ .nav2
+ {
+     background-color: black;
+     color:white;
+     padding: 7px;
+     border-radius:9px;
+     width: 70px;
+     
+ 
+ }
+ .body{
+     display:grid;
+     grid-template-columns:70% 30%;
+     padding:30px 50px 0 70px;
+     gap:20px;
+     
+ }
+
+ .login-box {
+    height: 50px;
+    width: 500px;
+    font-size: 1.2rem;
+  }
+ .body2{
+     display:grid;
+     align-items: center;
+     grid-template-columns: 60% 40%;
+     margin-top: 30px;
+     padding-left: 50px;
+ 
+ }
+ .body3
+ {
+     padding-left: 50px;
+     padding-right:50px;
+ }
+ .page6 {
+    margin:0 50px;
+ }
+ .page7 {
+    margin:0 50px;
+ }
+ .page8 {
+    margin:0 50px;
+ }
+
+
+
+ .golo
+ {
+     height:50px;
+     width: 50px;
+     border-radius: 50%;
+     background-color: black;
+     color:white;
+     display:flex;
+     align-items: center;
+     justify-content: center;
+ }
+ .golo i{
+     color: white;
+ }
+ .bodytala{
+     display:grid;
+     grid-template-columns: 45% 55%;
+     gap:10px;
+     padding-left: 50px;
+     padding-right: 50px;
+     margin:50px 50px 0 110px;
+ }
+ .footer{
+     background-color: black;
+     color:white;
+     padding:60px 0px 0 0;
+     margin-top: 90px;
+     height: 300px;
+ 
+ 
+ }
+ *{
+     margin: 0;
+ }
+ .form{
+     display:flex;
+     justify-content: center;
+      padding-top: 50px;
+ }
+ .living
+ {
+    border:1px solid black;
+     padding: 10px;
+     border-radius:9px;
+     width:90px;
+     
+     
+ }
+ .selected{
+     padding: 10px; 
+     background-color: black; 
+     color: white; 
+     font-weight: bold; 
+     width: 150px; 
+     border-radius: 10px;
+ }
+ 
+ .not-selected{
+     padding: 10px; font-weight: bold; width: 150px; border: 1px black solid;border-radius: 10px;
+ }
+ 
